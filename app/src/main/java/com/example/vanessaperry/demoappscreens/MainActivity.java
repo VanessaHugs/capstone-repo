@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 
 
         generalAnnouncementsTV.setText(generalAnnouncementsString);
-        //generalAnnouncementsTV.setText("ugh");
+        ////generalAnnouncementsTV.setText("ugh");
     }
 
     public void goMapScreen(View view){
